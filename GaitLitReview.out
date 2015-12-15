@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{chapter*.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Clinical Utility of Gait Analysis}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Human Gait}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.1}{The Gait Cycle}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.2}{Gait and Energy Use}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.3}{Neural Control of Gait}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.4}{Gait Analysis in Clinical Assessment}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.5}{Gait Variability}{section.1.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Gait Analysis Using Wearable Sensors}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Data Acquisition}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{Accelerometers}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.2}{Gyroscopes}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.3}{Magnetoresistive Sensors}{section.2.1}% 13
+\BOOKMARK [1][-]{section.2.2}{Signal Processing and Data Analysis}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.1}{Filtering}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.2}{Feature Extraction}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.3}{Processing Location}{section.2.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Usability Considerations}{chapter.2}% 18
+\BOOKMARK [1][-]{figure.caption.12}{Conclusion and progress to date}{chapter.2}% 19
+\BOOKMARK [1][-]{chapter*.15}{References}{chapter.2}% 20

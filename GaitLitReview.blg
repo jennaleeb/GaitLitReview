@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: GaitLitReview.aux
 The style file: plain.bst
 Database file #1: Gait.bib
-You've used 51 entries,
+You've used 57 entries,
             2118 wiz_defined-function locations,
-            853 strings with 14637 characters,
-and the built_in function-call counts, 18806 in all, are:
-= -- 1850
-> -- 1037
+            894 strings with 16203 characters,
+and the built_in function-call counts, 21398 in all, are:
+= -- 2100
+> -- 1205
 < -- 3
-+ -- 409
-- -- 358
-* -- 1544
-:= -- 3196
-add.period$ -- 152
-call.type$ -- 51
-change.case$ -- 331
++ -- 475
+- -- 418
+* -- 1782
+:= -- 3638
+add.period$ -- 170
+call.type$ -- 57
+change.case$ -- 379
 chr.to.int$ -- 0
-cite$ -- 51
-duplicate$ -- 578
-empty$ -- 1332
-format.name$ -- 358
-if$ -- 3758
+cite$ -- 57
+duplicate$ -- 644
+empty$ -- 1498
+format.name$ -- 418
+if$ -- 4264
 int.to.chr$ -- 0
-int.to.str$ -- 51
-missing$ -- 49
-newline$ -- 256
-num.names$ -- 102
-pop$ -- 274
+int.to.str$ -- 57
+missing$ -- 55
+newline$ -- 286
+num.names$ -- 114
+pop$ -- 310
 preamble$ -- 1
-purify$ -- 281
+purify$ -- 323
 quote$ -- 0
-skip$ -- 390
+skip$ -- 432
 stack$ -- 0
-substring$ -- 1319
-swap$ -- 74
+substring$ -- 1511
+swap$ -- 80
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 200
+type$ -- 224
 warning$ -- 0
-while$ -- 190
-width$ -- 53
-write$ -- 555
+while$ -- 214
+width$ -- 59
+write$ -- 621
